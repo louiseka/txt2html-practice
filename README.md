@@ -30,10 +30,10 @@ To run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/text-to-html.git
+git clone https://github.com/yourusername/txt2html-practice.git
 
 # Navigate into the project directory
-cd text-to-html
+cd txt2html-practice
 
 # Open the project
 open index.html
